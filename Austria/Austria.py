@@ -1,4 +1,4 @@
-#Subscribe to Code Gyani 👍
+#Subscribe to CodeGrah 👍
 
 from turtle import *
 turtlesize(5)

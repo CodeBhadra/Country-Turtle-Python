@@ -1,4 +1,4 @@
-#Subscribe to Code Gyani 👍
+#Subscribe to Code Grah 👍
 
 from turtle import*
 #function for curve
